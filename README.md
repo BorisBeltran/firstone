@@ -1,3 +1,1 @@
 # firstone
-
-linea agregada
